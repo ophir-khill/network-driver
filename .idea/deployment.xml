@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="046275 - dynamic translation (78f68593-0bf7-4a4f-bbb4-18c4d1a5fff3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/new_lab" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="itay-OSE (1e70f0f0-14b0-4805-b64d-4601031eca2f)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.Zpkxp9W3fv" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="meow - ubuntu (24f6e406-8679-4ff3-95f2-a1180ad05e34)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
